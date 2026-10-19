@@ -1,0 +1,1 @@
+# syllovo-smoke-test-course-repo
